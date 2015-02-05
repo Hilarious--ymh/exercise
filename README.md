@@ -1,2 +1,2 @@
 # exercise
-excercises on Coursera
+This is my demo.
